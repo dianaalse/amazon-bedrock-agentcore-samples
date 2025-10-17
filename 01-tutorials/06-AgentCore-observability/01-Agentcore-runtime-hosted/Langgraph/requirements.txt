@@ -1,0 +1,3 @@
+langchain-aws
+langgraph
+bedrock-agentcore<=0.1.5
