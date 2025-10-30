@@ -1,10 +1,8 @@
-uv
 langchain[aws]
 langgraph
-duckduckgo-search 
 langchain-community
 opentelemetry-instrumentation-langchain
-starlette
-uvicorn
-bedrock-agentcore<=0.1.5
-bedrock-agentcore-starter-toolkit==0.1.14
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+aws-opentelemetry-distro
+boto3
